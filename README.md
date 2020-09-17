@@ -24,6 +24,10 @@ producing queries that are understandable to our audience. We largely chose this
 data for this season has already been produced and we believe it will resonate more with our
 audience due to how recent it was and mostly because it is easily accessible for us.
 
+## Logical Design
+![alt text](https://raw.githubusercontent.com/heyday3/Database-Design-and-Modeling-NBA-Stat-Project/master/UPDATED_NBA-18-19_eastern_conf_erd.png)
+
+
 ## Changes from the original design
 Our original design was to create a database on only the Washington Wizards. We
 believed that the NBA had too many teams to cover so we thought it was a good idea to just
